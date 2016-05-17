@@ -1,0 +1,60 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/5.10.1/bin/node /usr/local/bin/firebase serve
+[debug] Platform:     darwin
+[debug] Node Version: v5.10.1
+[debug] Time:         Mon May 16 2016 12:34:59 GMT-0600 (MDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Listening at http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/5.10.1/bin/node /usr/local/bin/firebase serve
+[debug] Platform:     darwin
+[debug] Node Version: v5.10.1
+[debug] Time:         Mon May 16 2016 12:51:36 GMT-0600 (MDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Listening at http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/5.10.1/bin/node /usr/local/bin/firebase serve
+[debug] Platform:     darwin
+[debug] Node Version: v5.10.1
+[debug] Time:         Mon May 16 2016 17:05:52 GMT-0600 (MDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Listening at http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/5.10.1/bin/node /usr/local/bin/firebase serve
+[debug] Platform:     darwin
+[debug] Node Version: v5.10.1
+[debug] Time:         Mon May 16 2016 17:20:18 GMT-0600 (MDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Listening at http://localhost:5000
+[debug] Error: listen EADDRINUSE 127.0.0.1:5000
+    at Object.exports._errnoException (util.js:890:11)
+    at exports._exceptionWithHostPort (util.js:913:20)
+    at Server.__dirname.Server.Server._listen2 (net.js:1230:14)
+    at listen (net.js:1266:10)
+    at net.js:1375:9
+    at GetAddrInfoReqWrap.asyncCallback [as callback] (dns.js:63:16)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:82:10)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/5.10.1/bin/node /usr/local/bin/firebase serve
+[debug] Platform:     darwin
+[debug] Node Version: v5.10.1
+[debug] Time:         Mon May 16 2016 17:21:45 GMT-0600 (MDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Listening at http://localhost:5000
+[debug] Error: listen EADDRINUSE 127.0.0.1:5000
+    at Object.exports._errnoException (util.js:890:11)
+    at exports._exceptionWithHostPort (util.js:913:20)
+    at Server.__dirname.Server.Server._listen2 (net.js:1230:14)
+    at listen (net.js:1266:10)
+    at net.js:1375:9
+    at GetAddrInfoReqWrap.asyncCallback [as callback] (dns.js:63:16)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:82:10)
+[error] 
+[error] Error: An unexpected error has occurred.
